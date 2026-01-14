@@ -22,7 +22,7 @@
     ],
     "modules": [
         "shared-modules/libsoup/libsoup-2.4.json",
-        "webkit2gtk.json"
+        "webkit2gtk.json",
         {
             "name": "duktape",
             "buildsystem": "simple",
